@@ -1,2 +1,2 @@
 # rsschool-cv
-[Link to CV](https://iSvitka.github.io/rsschool-cv/cv)
+[Link to CV](https://isvitka.github.io/rsschool-cv/cv)
