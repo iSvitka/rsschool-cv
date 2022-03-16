@@ -1,7 +1,6 @@
-# Ilya Svitko 
+# Ilya Svitko
 
-
-### Contacts
+### _Contacts_
 - [VK](https://vk.com/bestqwerty)
 - [Telegram](https://t.me/iSvitka)
 - [GItHub](https://github.com/iSvitka)
@@ -9,20 +8,20 @@
 ***
 
 
-### About Me
+### _About Me_
 So, few words about me. I'm a 19 years old guy, who wants to make his dreams become true 🙃
 ***
 
 
-### My Skills
-- HTML learned on [Codecademy](https://www.codecademy.com/?utm_sou) 
-- CSS also learned on [Codecademy](https://www.codecademy.com/?utm_sou)
-- JavaScript learned on [Code Basics](https://ru.code-basics.com/)
+### _My Skills_
+- HTML  _learned on [Codecademy](https://www.codecademy.com/?utm_sou)_
+- CSS  _also learned on [Codecademy](https://www.codecademy.com/?utm_sou)_
+- JavaScript  _learned on [Code Basics](https://ru.code-basics.com/)_
 - Git 
 ***
 
 
-### Code Example
+### _Code Example_
 ```javascript
 function multiply(a, b) {
   return a * b;
@@ -31,13 +30,13 @@ function multiply(a, b) {
 ***
 
 
-###  Courses 
+###  _Courses_
 - HTML and CSS courses on [Html Academy](https://htmlacademy.ru/)
 - HTML, CSS and JS courses on [Code Basics](https://ru.code-basics.com/)
 - HTMl, CSS courses on [Codecademy](https://www.codecademy.com/)
 ***
 
 
-### Languages 
+### _Languages_
 - English: __B1__
 - Russian: __Native__
