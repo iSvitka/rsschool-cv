@@ -28,3 +28,16 @@ function multiply(a, b) {
   return a * b;
 }
 ```
+***
+
+
+###  _Courses_
+- HTML and CSS courses on [Html Academy](https://htmlacademy.ru/)
+- HTML, CSS and JS courses on [Code Basics](https://ru.code-basics.com/)
+- HTMl, CSS courses on [Codecademy](https://www.codecademy.com/)
+***
+
+
+### _Languages_
+- English: __B1__
+- Russian: __Native__
